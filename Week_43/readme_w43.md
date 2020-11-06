@@ -1,4 +1,6 @@
-MM_WEEK_43\n 
+<head>
+MM_WEEK_43
+</head>
 https://mvazquezmassaro.github.io/infovis/Week_43/1_Dashboard.html
 
 https://mvazquezmassaro.github.io/infovis/Week_43/2_Dashboard.html
