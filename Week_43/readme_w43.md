@@ -1,7 +1,9 @@
-
 https://mvazquezmassaro.github.io/infovis/Week_43/1_Dashboard.html
+
 https://mvazquezmassaro.github.io/infovis/Week_43/2_Dashboard.html
+
 https://mvazquezmassaro.github.io/infovis/Week_43/0_Historia.html
+
 https://mvazquezmassaro.github.io/infovis/Week_43/Change_VS_March.html
 https://mvazquezmassaro.github.io/infovis/Week_43/DeviationtoAvg.html
 https://mvazquezmassaro.github.io/infovis/Week_43/Export_VS_AVG.html
